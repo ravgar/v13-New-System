@@ -1,6 +1,6 @@
 - Wex Kardeşimle Yazdığım Main Stat ve İnvite Botundan Oluşan Bu 3'lü En Yüksek Özelliklere Sahiptir
-- +60 Star Üstü Gelmesse Botu Paylaşmıcam Diğer Owsla Botu Alıp Atan Adamlara 90 100 Star Gelirken Biz O Değeri Emek Verip Diğer Sunucularda Olmayan 4 5 Tane Bot Yapan Adamın Kullanıdığı Sistemlerı Yapıyoruz Ona Rağmen Bi Karşılık Alamıyoruz
-- Eğer Satın Almak İsterseniz Bot Daha Detaylı Gösterilir İletişim İçin ravgar#1000
+- 60 Starda Botu Paylaşıyorum
+- Diğer V13 Bots Atan Arkadaşlara İtafen (Öle Bi Botları Olmadığıda Ayrı Bir Konu)
 
 ![image](https://user-images.githubusercontent.com/97904458/183685499-500b3dc5-d3b9-4cfe-a2fd-ea0c53eee03b.png)
 ![image](https://user-images.githubusercontent.com/97904458/178124945-a3dfe97c-9b60-46a4-ab50-886219f9ef24.png)
