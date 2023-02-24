@@ -1,5 +1,5 @@
 - Wex Kardeşimle Yazdığım Main Stat ve İnvite Botundan Oluşan Bu 3'lü En Yüksek Özelliklere Sahiptir
-- 60 Starda Botu Paylaşıyorum
+- 60 Starda Botu Paylaşıyorum ( Bot Paylaşılmıştır => https://github.com/ravgar/Discord-Moderasyon-Stat-Invite-Log-Register-Botu-V13 )
 - Diğer V13 Bots Atan Arkadaşlara İtafen (Öle Bi Botları Olmadığıda Ayrı Bir Konu)
 
 ![image](https://user-images.githubusercontent.com/97904458/183685499-500b3dc5-d3b9-4cfe-a2fd-ea0c53eee03b.png)
